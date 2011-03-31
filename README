@@ -1,0 +1,13 @@
+License to Journey is an experiment in ActionScript 3.
+It attempts to recreate the classic board game Ticket to Ride.
+
+It is currently unfinished. Most of the game has been recreated, except for the scoring. 
+There is almost no error checking in the current version. So if you don't know the rules
+to the game, you'll be lost. You are able to make moves that are illegal and that will
+crash the game.
+
+Feel free to fork and extend and improve the project, I'll be happy to merge any changes.
+
+The position of the cities is matched to the actual Ticket to Ride board. For copyright
+reasons I wasn't able to include it, but it should be fairly simple to replace the assets
+with the original ones and get the almost real deal.
